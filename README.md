@@ -10,8 +10,11 @@ The purpose of this analysis is to perfrorm deep learning on charity data to fin
 
 ## Compiling, Training, and Modelling
 * There were 3 Neuron Layers that get smaller and smaller the deeper the layer goes and the two unique activation functions were TANH and Sigmoid activation.
+
 * I was not able to achieve the 75% goal but was really close with 72%.
-  [!EPOVH](images/EPOCH.png)
+
+![EPOCH](images/EPOCH.png)
+
 * Some steps I took was to increase the amount of hidden layers, change the activation function from RELU to TANH and also Increasing number of epochs being runned.
 
 ## Summary
